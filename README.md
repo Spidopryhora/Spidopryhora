@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @Spidopryhora
+- 👀 I’m interested in test automation with Python/Robot framework and Java/Selenide/TestNG
